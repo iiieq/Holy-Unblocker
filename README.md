@@ -270,7 +270,8 @@ This project currently uses Ultraviolet, Womginx, and Rammerhead, linked below.
 - <a href="https://github.com/binary-person/womginx">Womginx</a>
 - <a href="https://github.com/binary-person/rammerhead">Rammerhead</a>
 
-### Other:
+### Other: :D
+
 
 - <a href="https://github.com/vibedivide/vibeOS">vibeOS</a>
 - <a href="https://github.com/BinBashBanana/webretro">webretro</a>
